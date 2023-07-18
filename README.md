@@ -38,5 +38,5 @@ In this project, I present two laptop options for the Chief Financial Officer (C
 ## Conclusion
 Considering the improved CPU performance, increased RAM, and larger storage capacity, I recommend the Lenovo IdeaPad 3i as the preferred laptop for the organization. However, if the budget allows for a higher-end option, the Dell Inspiron is also a viable choice. Both options offer better specifications and enhanced productivity.
 
-For more information and detailed specifications, please refer to the [GitHub repository](link-to-repository) for this recommendation project.
+
 
