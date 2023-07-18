@@ -18,7 +18,7 @@ In this project, I present two laptop options for the Chief Financial Officer (C
 - Number of Processors: Quad-core
 - RAM: 16GB
 - Hard Drive Storage: 512GB SSD
-- [Alternative Laptop Option 1 Image](OPT1.jpg)
+  ![Alternative Laptop Option 1 Image](OPT1.jpg)
 
 ### Alternative Laptop Option 2
 - Laptop Model: Dell Inspiron
@@ -27,7 +27,7 @@ In this project, I present two laptop options for the Chief Financial Officer (C
 - Number of Processors: 8-core
 - RAM: 16GB
 - Hard Drive Storage: 1TB SSD
-- [Alternative Laptop Option 2 Image](OPT2.jpg)
+  ![Alternative Laptop Option 2 Image](OPT2.jpg)
 
 ## Reasons for Recommendation
 1. Improved CPU Performance: Both the Lenovo IdeaPad 3i and Dell Inspiron offer better CPU performance compared to the AMD Athlon Silver 7120U in the CFO's requested laptop.
