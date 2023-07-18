@@ -10,7 +10,7 @@ In this project, I present two laptop options for the Chief Financial Officer (C
 - Number of Processors: Information not provided
 - RAM: 4GB
 - Hard Drive Storage: 128GB SSD
-  [CFO](CFO.jpg)
+  ![CFO](CFO.jpg)
 ### Alternative Laptop Option 1 (Recommended)
 - Laptop Model: Lenovo IdeaPad 3i
 - Price: $699.99
